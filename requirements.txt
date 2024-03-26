@@ -1,0 +1,6 @@
+transformers
+streamlit
+pickle
+requests
+googleapiclient
+PIL
